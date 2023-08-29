@@ -1,0 +1,6 @@
+**To-Do List/Task Manager App**
+
+-This is a simple to-do list app where you can enter tasks, add them to the list, and delete them as needed.
+-The app's functionality is implemented using JavaScript, and the styling is handled through CSS. 
+-This is a basic starting point, and you can further enhance the app with features like marking tasks as completed, 
+ editing tasks, and saving tasks to local storage.
